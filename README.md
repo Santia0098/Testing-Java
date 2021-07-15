@@ -1,6 +1,8 @@
 # **Testing in Java - Course**
------
-In this project we use two four different dependencies like JUnit, Mockito, H2 and JDBC from Spring Framework.
+
+## Overview
+### Dependencies
+In this project we use two four different dependencies like **JUnit**, **Mockito**, **H2** and** JDBC from Spring Framework.**
 
 - Manage a database in our project.
 - Automatic tests
@@ -12,5 +14,11 @@ In this project we use two four different dependencies like JUnit, Mockito, H2 a
 - Update data.
 - Delete specific information.
 
-
 `This project contain four challenges `
+
+## Author
+Realized by [Miguel Hernandez](https://github.com/Santia0098 "Miguel Hernandez") (Github).
+
+## Version
+
+1.0 Initial release (project finished).
