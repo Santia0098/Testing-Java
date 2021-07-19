@@ -1,5 +1,9 @@
 # **Java Testing Course**
-In this project we use a local database with H2 dependency. We can do a CRUD of some movies, using different parameters like name, author, duration, genre, director, etc.
+In this project we use a local database with H2 dependency. 
+
+## Description
+
+We can do a CRUD of some movies, using different parameters like name, author, duration, genre, director, etc.
 
 
 ## Getting started
