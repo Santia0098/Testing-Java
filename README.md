@@ -1,4 +1,4 @@
-# **Testing in Java - Course**
+# **Java Testing Course**
 In this project we use a local database with H2 dependency. We can do a CRUD of some movies, using different parameters like name, author, duration, genre, director, etc.
 
 
@@ -23,8 +23,11 @@ In this project we use two four different dependencies like **JUnit**, **Mockito
 
 `This project contain four challenges `
 
-## Author
-Realized by [Miguel Hernandez](https://github.com/Santia0098 "Miguel Hernandez") (Github).
+## Authors and acknowledgment
+
+Thanks to platzi and Ferran Maylinch Carrasco for this great course. [Java Testing](https://platzi.com/clases/testing-java/ "Java Testing")
+
+- Realized by [Miguel Hernandez](https://github.com/Santia0098 "Miguel Hernandez") (Github).
 
 ## Version
 
