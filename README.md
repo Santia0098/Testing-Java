@@ -1,6 +1,13 @@
 # **Testing in Java - Course**
+In this project we use a local database with H2 dependency. We can do a CRUD of some movies, using different parameters like name, author, duration, genre, director, etc.
 
-## Overview
+
+## Getting started
+
+### Run project
+
+Only we need run the local project, in this case i am using IntelliJIDEA IDE.
+
 ### Dependencies
 In this project we use two four different dependencies like **JUnit**, **Mockito**, **H2** and** JDBC from Spring Framework.**
 
